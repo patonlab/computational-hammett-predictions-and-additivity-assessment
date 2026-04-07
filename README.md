@@ -1,0 +1,1 @@
+# computational-hammett-predictions-and-additivity-assessment
