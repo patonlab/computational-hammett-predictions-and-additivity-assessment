@@ -1,0 +1,19 @@
+name: hammett-umlip
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - pandas=2.3
+  - scipy=1.17
+  - scikit-learn=1.9.1
+  - rdkit=2026.03
+  - matplotlib=3.11
+  - seaborn=0.13
+  - pip
+  - pip:
+      # only needed for 02_extract_embeddings.py
+      - torch==2.14.0
+      - ase==3.29.0
+      - orb-models==0.5.5
+      - mace-torch==0.3.16

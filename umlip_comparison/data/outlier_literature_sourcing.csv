@@ -1,0 +1,36 @@
+substituent_smiles,position,experimental_sigma,min_abs_resid,table1_entry_no,bib_ref_nos,citation(s),flag_secondary_source,flag_indirect_method
+[At]/N=C/c1ccccc1,para,-0.55,0.45420396495700754,451,156,"Exner, O.; Lakomy, J. Coll. Czech. Chem. Commun. 1970, 35, 1371.",False,False
+O=[N+]([O-])N[At],meta,0.91,0.4424195925304629,44,112,"Thomas, A.; Tomasik, P. Bull. Acad. Pol. Sci. 1975, 23, 65.",False,False
+O=C(OI([At])OC(=O)C(F)(F)F)C(F)(F)F,meta,1.28,0.33812991216849286,314,110,"Yagupol'skii, L. M.; Il'chenko, A. Y.; Kondratenko, N. V. Russ. Chem. Rev. 1974, 43, 32 (Engl. ed., translated). [review article]",False,False
+O=C(OI([At])OC(=O)C(F)(F)F)C(F)(F)F,para,1.34,0.32970650635243204,314,110,"Yagupol'skii, L. M.; Il'chenko, A. Y.; Kondratenko, N. V. Russ. Chem. Rev. 1974, 43, 32 (Engl. ed., translated). [review article]",False,False
+O=S(=O)(Cl)[At],meta,1.2,0.3109150648117065,7,134,"Bray, P. J.; Barnes, R. G. J. Chem. Phys. 1957, 27, 551. [indirect: NMR-based, 1957]",False,True
+CN([At])N=O,para,0.61,0.3061729526519775,140,112,"Thomas, A.; Tomasik, P. Bull. Acad. Pol. Sci. 1975, 23, 65.",False,False
+C/C(=N\[At])Nc1ccccc1,meta,0.29,0.28845966696739195,476,133,"Zuman, P. Substituent Effects in Organic Polarography; Plenum Press: New York, 1967; p 76. [indirect: polarographic half-wave potentials, not acid ionization]",False,True
+[At]n1cccc1,para,0.37,0.2858923923969269,340,93,"Hansch, C.; Rockwell, S. D.; Jow, P. Y. C.; Leo, A.; Steller, E. E. J. Med. Chem. 1977, 20, 304.",False,False
+[At]c1ncccn1,para,0.53,0.27672538042068484,333,277,"Shkurko, O. P.; Mamaev, V. P. Zh. Org. Khim. 1979, 15, 1557 (Russian; no Engl. ed. noted).",False,False
+O=Cc1ccc([At])o1,para,-0.05,0.27085583209991454,377,"94, 95","Fisera, L.; Lesko, J.; Kovac, J.; Hrabovsky, J.; Sura, J. Coll. Czech. Chem. Commun. 1977, 42, 105. | Fisera, L.; Sura, J.; Kovac, J.; Lucky, M. Coll. Czech. Chem. Commun. 1974, 39, 1711.",False,False
+[At]c1ccncn1,para,0.63,0.2666133689880371,332,277,"Shkurko, O. P.; Mamaev, V. P. Zh. Org. Khim. 1979, 15, 1557 (Russian; no Engl. ed. noted).",False,False
+O=C(N/N=C/[At])c1ccccc1,para,0.51,0.26538963079452516,470,93,"Hansch, C.; Rockwell, S. D.; Jow, P. Y. C.; Leo, A.; Steller, E. E. J. Med. Chem. 1977, 20, 304.",False,False
+COc1ccc(/C=N/[At])cc1,para,-0.54,0.2652663373947144,471,156,"Exner, O.; Lakomy, J. Coll. Czech. Chem. Commun. 1970, 35, 1371.",False,False
+CN(C)P(Cl)[At],para,0.56,0.23155048251152044,226,164,"Hogben, M. G.; Graham, W. A. G. J. Am. Chem. Soc. 1969, 91 (vol. truncated in OCR).",False,False
+CN(C)[At],para,-0.83,0.2266911962425836,231,"185, 183","Bordwell, F. G.; Boutan, P. J. J. Am. Chem. Soc. 1956, 78, 854. | McDaniel, D. H.; Brown, H. C. J. Org. Chem. 1958, 23, 420. [the canonical primary pKa source — used for most of Table I]",False,False
+Cc1ccc(S(=O)(=O)/N=S(\C)[At])cc1,meta,0.65,0.2241858931879147,478,205,"Kucsman, A.; Ruff, F.; Solyom, S.; Szirtes, T. Acta Chim. Acad. Sci. Hung. 1968, 57, 205.",False,False
+Fc1ccc(O[At])cc1,meta,-0.08,0.21660137757913123,409,106,"Meyer, L. H.; Gutowsky, H. S. J. Phys. Chem. 1953, 57, 481. [indirect: NMR chemical-shift correlation, 1953]",False,True
+Cc1ccc(S(=O)(=O)/N=S(\C)[At])cc1,para,0.7,0.20834604983738175,478,205,"Kucsman, A.; Ruff, F.; Solyom, S.; Szirtes, T. Acta Chim. Acad. Sci. Hung. 1968, 57, 205.",False,False
+Cc1ccc(C)n1[At],meta,0.49,0.19815226742108272,431,93,"Hansch, C.; Rockwell, S. D.; Jow, P. Y. C.; Leo, A.; Steller, E. E. J. Med. Chem. 1977, 20, 304.",False,False
+N#Cc1ccc([At])o1,para,0.1,0.19785597324371337,376,"94, 95","Fisera, L.; Lesko, J.; Kovac, J.; Hrabovsky, J.; Sura, J. Coll. Czech. Chem. Commun. 1977, 42, 105. | Fisera, L.; Sura, J.; Kovac, J.; Lucky, M. Coll. Czech. Chem. Commun. 1974, 39, 1711.",False,False
+Cc1ccc(C)n1[At],para,0.38,0.1907873761451767,431,93,"Hansch, C.; Rockwell, S. D.; Jow, P. Y. C.; Leo, A.; Steller, E. E. J. Med. Chem. 1977, 20, 304.",False,False
+[At]c1ccncc1,para,0.44,0.1883149621782168,380,71,"Shkurko, O. P.; Baram, S. G.; Mamaev, V. P. Khim. Geterotsikl. Soedin. 1983, 66.",False,False
+[At]n1cccc1,meta,0.47,0.18795404731653176,340,93,"Hansch, C.; Rockwell, S. D.; Jow, P. Y. C.; Leo, A.; Steller, E. E. J. Med. Chem. 1977, 20, 304.",False,False
+[At]Nc1ccccc1,para,-0.56,0.18658210025225364,427,"173, 85","Charton, M. J. Org. Chem. 1965, 30, 557. | Charton, M. Prog. Phys. Org. Chem. 1981, 13, 119. [SECONDARY: review/survey compiling values from other sources]",True,False
+[GeH3][At],para,0.01,0.18505608081817626,57,"74, 280","Perrin, D. D.; Dempsey, B.; Serjeant, E. P. pKa Prediction for Organic Acids and Bases; Chapman Hall: London, 1981; Appendix. [SECONDARY: prediction-methodology compendium, not a primary measurement] | Vo-Kim-Yen; Papouskova, Z.; Schraml, J.; Chvalovsky, V. Coll. Czech. Chem. Commun. 1973, 38, 3167.",True,False
+O=[Se](=O)([At])C(F)(F)F,para,1.21,0.18395956516265866,79,74,"Perrin, D. D.; Dempsey, B.; Serjeant, E. P. pKa Prediction for Organic Acids and Bases; Chapman Hall: London, 1981; Appendix. [SECONDARY: prediction-methodology compendium, not a primary measurement]",True,False
+CS(=O)O[At],para,0.45,0.18377335071563722,146,74,"Perrin, D. D.; Dempsey, B.; Serjeant, E. P. pKa Prediction for Organic Acids and Bases; Chapman Hall: London, 1981; Appendix. [SECONDARY: prediction-methodology compendium, not a primary measurement]",True,False
+BrC(Br)(Br)[At],para,0.29,0.17962310175324442,61,165,"Sheppard, W. A. Trans. N.Y. Acad. Sci. 1967, 29, 700. [conference proceedings, not a peer-reviewed primary journal article]",False,False
+[GeH3][At],meta,0.0,0.169264116523065,57,"74, 280","Perrin, D. D.; Dempsey, B.; Serjeant, E. P. pKa Prediction for Organic Acids and Bases; Chapman Hall: London, 1981; Appendix. [SECONDARY: prediction-methodology compendium, not a primary measurement] | Vo-Kim-Yen; Papouskova, Z.; Schraml, J.; Chvalovsky, V. Coll. Czech. Chem. Commun. 1973, 38, 3167.",True,False
+ClI(Cl)[At],para,1.11,0.16571097135543833,9,110,"Yagupol'skii, L. M.; Il'chenko, A. Y.; Kondratenko, N. V. Russ. Chem. Rev. 1974, 43, 32 (Engl. ed., translated). [review article]",False,False
+[At]/C=N/c1ccccc1,para,0.42,0.16051812902084356,452,"136, 137","Weiss, C.; Engewald, W.; Muller, H. Tetrahedron 1966, 22, 825. | Ryan, J. J.; Humffray, A. A. J. Chem. Soc. B 1966, 842.",False,False
+[At]/N=C/c1ccccc1,meta,-0.08,0.1593852501756386,451,156,"Exner, O.; Lakomy, J. Coll. Czech. Chem. Commun. 1970, 35, 1371.",False,False
+O=[N+]([O-])c1ccc(S[At])cc1,meta,0.32,0.15689482569694518,414,85,"Charton, M. Prog. Phys. Org. Chem. 1981, 13, 119. [SECONDARY: review/survey compiling values from other sources]",True,False
+FC(F)OS[At],para,0.58,0.15627549767494198,105,140,"Sedova, L. N.; Gandel'sman, L. Z.; Alekseeva, L. A.; Yagupol'skii, L. M. Zh. Obshch. Khim. 1969, 39, 2011 (Engl. ed., translated).",False,False
+FC(F)(F)OS[At],meta,0.63,0.15454841136932373,76,163,"Bystrov, V. F.; Yagupol'skii, L. M.; Stepanyants, A. U.; Fialkov, Y. A. Dokl. Akad. Nauk SSSR 1963, 153, 1019 (Engl. ed., translated). [indirect: NMR-based]",False,True

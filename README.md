@@ -13,3 +13,7 @@ This GitHub repository contains all data and code used in the development of thi
 * structures_3_5_disubstituted: xyz files containing the geometries of the DFT-optimized lowest energy conformer for the 3,5-disubstituted benzonitriles used in this work; corresponding experimental Hammett sums and predicted Hammett parameters can be found in csv_files/hammett_predictions_3_5.csv. For those structures which had experimentally observed polysubstituted Hammett parameters, the experimentally observed parameters can be found in csv_files/experimental_values_3_5.csv.
   
 We would like to thank Alexandra Platt for her assistance in creating this repository.
+
+## Comparison with uMLIP embeddings and consensus outlier screen
+
+Code, data and results for Figures 9 and 10 (CM5 model vs. ridge regression on ORB and MACE embeddings; consensus screen of experimental σ values) are in [`umlip_comparison/`](umlip_comparison/README.md). The environment is `conda_environments/umlip_comparison_environment.yml`.
