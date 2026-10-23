@@ -1,0 +1,5 @@
+threshold,n_pairs,n_substituents,fraction_on_shrinkage_side
+0.1,74,54,0.9054054054054054
+0.15,35,29,0.9428571428571428
+0.2,18,16,1.0
+0.25,13,12,1.0
